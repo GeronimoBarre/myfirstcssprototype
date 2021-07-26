@@ -1,5 +1,5 @@
-html {
-
+title {
+  text-align: center;
 }
 figure img {
   width: 20%;
@@ -12,18 +12,6 @@ figure video {
 figure iframe {
   height: 110%;
 }
-h1 {
-  color: red;
-  font-size: 3em;
-}
-.menu li a {
-  color: lightblue;
-  font-size: 2em
-}
-.menu li {
-  display: inline-block;
-  margin-right: 2%;
-}
 body {
   background-color: black;
   font-family: monospace;
@@ -33,6 +21,7 @@ body {
 main section article {
   margin-bottom: 2%;
   margin-top: 2%;
+  border-bottom: 1% solid blue;
 }
 figcaption {
   font-family: monospace;
