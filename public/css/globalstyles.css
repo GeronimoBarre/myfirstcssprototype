@@ -1,12 +1,42 @@
-h1 {
-  color: purple;
-}
-a {
-  color: blue;
-}
-#link-home {
-  color: cyan;
-}
-#header-pic{
+html {
 
+}
+figure img {
+  width: 20%;
+  height: 20%;
+}
+figure video {
+  width: 60%;
+  height: 60%;
+}
+figure iframe {
+  height: 110%;
+}
+h1 {
+  color: red;
+  font-size: 3em;
+}
+.menu li a {
+  color: lightblue;
+  font-size: 2em
+}
+.menu li {
+  display: inline-block;
+  margin-right: 2%;
+}
+body {
+  background-color: black;
+  font-family: monospace;
+  color: lightgray;
+  text-align: center;
+}
+main section article {
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+figcaption {
+  font-family: monospace;
+  margin-top: 1%;
+}
+footer {
 }
