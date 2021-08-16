@@ -1,1 +1,35 @@
-  
+figure img {
+  width: 50%;
+  border-radius: 10px;
+  border: 5px double;
+}
+figure video {
+  width: 80%;
+  border-radius: 10px;
+  border: 5px double;
+}
+figure iframe {
+  width: 100%;
+  border-radius: 10px;
+  border: 5px double;
+}
+main section article {
+  margin-bottom: 2%;
+  margin-top: 2%;
+  border-bottom: 1% solid blue;
+}
+figcaption {
+  font-family: sans-serif;
+  margin-top: 1%;
+}
+body main {
+  text-align: center;
+}
+@media screen and (min-width: 900px) {
+  figure img {
+    width: 20%;
+  }
+  figure video {
+    width: 60%;
+  }
+}

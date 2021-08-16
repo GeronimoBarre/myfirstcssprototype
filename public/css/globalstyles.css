@@ -1,31 +1,7 @@
-title {
-  text-align: center;
-}
-figure img {
-  width: 20%;
-  height: 20%;
-}
-figure video {
-  width: 60%;
-  height: 60%;
-}
-figure iframe {
-  height: 110%;
+body main {
+  font-family: monospace;
+  color: lightgray;
 }
 body {
   background-color: black;
-  font-family: monospace;
-  color: lightgray;
-  text-align: center;
-}
-main section article {
-  margin-bottom: 2%;
-  margin-top: 2%;
-  border-bottom: 1% solid blue;
-}
-figcaption {
-  font-family: monospace;
-  margin-top: 1%;
-}
-footer {
 }

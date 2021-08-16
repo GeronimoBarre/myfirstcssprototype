@@ -1,0 +1,9 @@
+.footline {
+  height: 20px;
+  border: 0;
+  box-shadow: inset 0px 12px 12px -12px rgba(9, 84, 132);
+}
+footer {
+  text-align: center;
+  color: lightgray;
+}
